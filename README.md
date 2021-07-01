@@ -1,2 +1,3 @@
-# forkify
-Online Food Ingredient Store Created Using API calls
+# forkify Project
+
+Recipe application with custom recipe uploads.
